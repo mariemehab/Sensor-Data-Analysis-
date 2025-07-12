@@ -15,10 +15,4 @@ sensor_data = [
     ("S2", "2025-04-28 11:00", 37.2, 14.3, 0.0031),
     ("S1", "2025-04-28 12:00", 37.0, 13.0, 0.0022),
 ]
-## 📊 Visualizations
 
-### 🌡️ Temperature Over Time
-![Temperature Over Time](temperature_over_time.png)
-
-### 🧭 Stress vs. Displacement
-![Stress vs. Displacement](stress_vs_displacement_final.png)
